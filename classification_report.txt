@@ -1,0 +1,32 @@
+Random Forest Classification Report
+Accuracy: 0.9065
+
+              precision    recall  f1-score   support
+
+       apple       1.00      1.00      1.00        20
+      banana       0.95      0.90      0.92        20
+   blackgram       0.88      0.70      0.78        20
+    chickpea       1.00      1.00      1.00        20
+     coconut       1.00      1.00      1.00        20
+      coffee       1.00      0.95      0.97        20
+      cotton       1.00      1.00      1.00        20
+      grapes       0.89      0.85      0.87        20
+        jute       0.94      0.85      0.89        20
+ kidneybeans       0.87      1.00      0.93        20
+      lentil       1.00      1.00      1.00        20
+       maize       0.95      0.95      0.95        20
+       mango       0.95      0.95      0.95        20
+   mothbeans       0.91      1.00      0.95        20
+    mungbean       0.75      0.90      0.82        20
+   muskmelon       0.86      0.60      0.71        20
+      orange       1.00      0.95      0.97        20
+      papaya       1.00      0.95      0.97        20
+  pigeonpeas       1.00      0.85      0.92        20
+ pomegranate       0.70      0.70      0.70        20
+        rice       0.79      0.95      0.86        20
+  watermelon       0.61      0.85      0.71        20
+       wheat       1.00      0.95      0.97        20
+
+    accuracy                           0.91       460
+   macro avg       0.92      0.91      0.91       460
+weighted avg       0.92      0.91      0.91       460
